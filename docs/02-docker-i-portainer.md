@@ -12,6 +12,9 @@ Instalacja obejmowała:
 ## 📊 Panel zarządzania Portainer
 Aby uzyskać pełną kontrolę nad infrastrukturą, wdrożyłem **Portainer CE**. Jest to interfejs graficzny, który pozwala na monitoring zasobów i zarządzanie kontenerami w czasie rzeczywistym.
 
+## Instalacja
+
+![Instalacja](docs/poirtrainer.png)
 **Widok główny panelu Portainer (Dashboard):**
 ![Dashboard Portainera](../images/portainer-main.png)
 
