@@ -16,6 +16,7 @@ Budowa i administracja domowym serwerem opartym na architekturze mikroserwisów 
 * Instalacja servera Ubuntu.
 * Konfiguracja Netplan (Static IP, Wi-Fi).
 * Optymalizacja zarządzania energią (Clamshell Mode).
+* Konfiguracja firewall dla portów pod SSH oraz Portrainer.
 
 ### Rozdział 2: Konteneryzacja i Docker (Wkrótce)
 * Instalacja silnika Docker oraz Docker Compose.
