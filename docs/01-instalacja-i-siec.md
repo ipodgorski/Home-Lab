@@ -37,9 +37,7 @@ Zastosowałem podejście polegające na domyślnym blokowaniu całego ruchu przy
 1. **Port 22 (SSH):** Otwarty, aby umożliwić zdalne zarządzanie z Kali Linuxa.
 2. **Port 9443 (HTTPS):** Otwarty dla nadchodzącej instalacji panelu Portainer.
 
-**Status aktywnej zapory na serwerze:**
-
-![Konfiguracja Firewalla](../images/firewall.png)
+![Konfiguracja Firewalla](/docs/firewall.png)
 
 
-> **Wiedza do CV:** "Implementacja polityki bezpieczeństwa Host-based Firewall. Minimalizacja powierzchni ataku (Attack Surface Reduction) poprzez selektywne zarządzanie portami i logikę białej listy."**
+
