@@ -6,7 +6,7 @@ Budowa i administracja domowym serwerem opartym na architekturze mikroserwisów 
 ### 💻 Wykorzystany sprzęt
 * **Urządzenie:** Laptop Lenovo.
 * **System:** Ubuntu Server 24.04 LTS (Headless).
-* **Łączność:** Wyłącznie Wi-Fi (interfejs `wlp2s0`) ze statyczną adresacją IP (brak portu).
+* **Łączność:** Wyłącznie Wi-Fi (interfejs `wlp2s0`) ze statyczną adresacją IP (brak portu LAN w laptopie).
 
 ---
 
