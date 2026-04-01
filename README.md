@@ -1,4 +1,4 @@
-# 🏠 Projekt: Domowe Laboratorium Serwerowe (Home Lab)
+# 🏠 Domowe Laboratorium Serwerowe (Home Lab)
 
 ## 🎯 Cel projektu
 Budowa i administracja domowym serwerem opartym na architekturze mikroserwisów (Docker). Projekt pokazuje proces przekształcenia starego laptopa (legacy hardware) w pełnoprawną jednostkę serwerową do testów sieciowych, monitoringu i automatyzacji.
