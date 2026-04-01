@@ -24,3 +24,22 @@ Połączyliśmy się z serwerem za pomocą Kali Linux.
 Wyłączyliśmy usypianie laptopa po zamknięciu klapy w pliku `/etc/systemd/logind.conf`.
 
 ![Logind.conf](/docs/pozamkniecie.png)
+
+
+## 5️⃣ Bezpieczeństwo: Implementacja Firewalla (UFW)
+
+Po skonfigurowaniu dostępu zdalnego, kolejnym krokiem było zabezpieczenie serwera przed nieautoryzowanym dostępem. Wdrożyłem zaporę sieciową **UFW (Uncomplicated Firewall)**.
+
+### Strategia "Default Deny"
+Zastosowałem podejście polegające na domyślnym blokowaniu całego ruchu przychodzącego i otwieraniu tylko niezbędnych portów.
+
+**Konfiguracja reguł dostępu:**
+1. **Port 22 (SSH):** Otwarty, aby umożliwić zdalne zarządzanie z Kali Linuxa.
+2. **Port 9443 (HTTPS):** Otwarty dla nadchodzącej instalacji panelu Portainer.
+
+**Status aktywnej zapory na serwerze:**
+
+![Konfiguracja Firewalla](../images/firewall.png)
+
+
+> **Wiedza do CV:** "Implementacja polityki bezpieczeństwa Host-based Firewall. Minimalizacja powierzchni ataku (Attack Surface Reduction) poprzez selektywne zarządzanie portami i logikę białej listy."**
