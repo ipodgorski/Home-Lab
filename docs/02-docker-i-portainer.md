@@ -14,7 +14,7 @@ Aby uzyskać pełną kontrolę nad infrastrukturą, wdrożyłem **Portainer CE**
 
 ## Instalacja
 
-![Instalacja](docs/poirtrainer.png)
+![Instalacja](/docs/poirtrainer.png)
 **Widok główny panelu Portainer (Dashboard):**
 ![Dashboard Portainera](../images/portainer-main.png)
 
