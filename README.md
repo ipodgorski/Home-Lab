@@ -18,7 +18,7 @@ Budowa i administracja domowym serwerem opartym na architekturze mikroserwisów 
 * Optymalizacja zarządzania energią (Clamshell Mode).
 * Konfiguracja firewall dla portów pod SSH oraz Portrainer.
 
-### Rozdział 2: Konteneryzacja i Docker (Wkrótce)
+### [Rozdział 2: Konteneryzacja i Docker](./docs/02-docker-i-poirtainer.md)
 * Instalacja silnika Docker oraz Docker Compose.
 * Wdrożenie panelu Portainer do graficznego zarządzania kontenerami.
 
