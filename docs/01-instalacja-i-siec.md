@@ -1,7 +1,7 @@
 # Rozdział 1: Instalacja systemu i konfiguracja sieci
 
 ## 1️⃣ Przygotowanie sprzętu
-Instalacja odbyła się na starym laptopie Lenovo. Głównym wyzwaniem był brak portu Ethernet, co wymusiło konfigurację Wi-Fi (`wlp2s0`) w trybie tekstowym.
+Instalacja odbyła się na laptopie Lenovo. Brak portu Ethernet, co wymusiło konfigurację Wi-Fi (`wlp2s0`) w trybie tekstowym.
 
 ## 2️⃣ Konfiguracja Netplan (Static IP)
 Zamiast DHCP, ustawiliśmy statyczny adres IP, aby serwer był zawsze dostępny pod tym samym adresem.
