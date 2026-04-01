@@ -1,8 +1,5 @@
 # 🏠 Projekt: Domowe Laboratorium Serwerowe (Home Lab)
 
-![Status](https://img.shields.shields.shields.io/badge/Status-W%20trakcie-orange)
-![OS](https://img.shields.shields.shields.io/badge/OS-Ubuntu%20Server%2024.04-linux)
-
 ## 🎯 Cel projektu
 Budowa i administracja domowym serwerem opartym na architekturze mikroserwisów (Docker). Projekt pokazuje proces przekształcenia starego laptopa (legacy hardware) w pełnoprawną jednostkę serwerową do testów sieciowych, monitoringu i automatyzacji.
 
