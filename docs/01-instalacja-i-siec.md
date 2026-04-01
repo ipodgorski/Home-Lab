@@ -34,8 +34,8 @@ Po skonfigurowaniu dostępu zdalnego, kolejnym krokiem było zabezpieczenie serw
 Zastosowałem podejście polegające na domyślnym blokowaniu całego ruchu przychodzącego i otwieraniu tylko niezbędnych portów.
 
 **Konfiguracja reguł dostępu:**
-1. **Port 22 (SSH):** Otwarty, aby umożliwić zdalne zarządzanie z Kali Linuxa.
-2. **Port 9443 (HTTPS):** Otwarty dla nadchodzącej instalacji panelu Portainer.
+1. **Port 22:** Otwarty, aby umożliwić zdalne zarządzanie z Kali Linuxa.
+2. **Port 9443:** Otwarty dla nadchodzącej instalacji panelu Portainer.
 
 ![Konfiguracja Firewalla](/docs/firewall.png)
 
