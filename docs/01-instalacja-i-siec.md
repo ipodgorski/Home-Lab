@@ -7,6 +7,8 @@ Instalacja odbyła się na laptopie Lenovo. Brak portu Ethernet, co wymusiło ko
 Zamiast DHCP, ustawiliśmy statyczny adres IP, aby serwer był zawsze dostępny pod tym samym adresem.
 
 **Oto nasza konfiguracja YAML:**
+
+
 ![Netplan](/docs/siec.png) 
 
 ## 3️⃣ Dostęp zdalny (SSH)
