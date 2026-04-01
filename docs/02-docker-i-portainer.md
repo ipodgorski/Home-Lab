@@ -15,7 +15,10 @@ Aby uzyskać pełną kontrolę nad infrastrukturą, wdrożyłem **Portainer CE**
 ## Instalacja
 
 ![Instalacja](/docs/poirtrainer.png)
-**Widok główny panelu Portainer (Dashboard):**
-![Dashboard Portainera](../images/portainer-main.png)
 
-> **Kluczowa umiejętność:** Zarządzanie kontenerami poprzez "Docker Socket" oraz mapowanie portów (9443 dla HTTPS), co pozwala na bezpieczną administrację z zewnątrz.
+
+**Widok główny panelu Portainer (Dashboard):**
+
+![Dashboard Portainera](/docs/widok.png)
+
+
