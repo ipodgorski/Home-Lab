@@ -4,9 +4,9 @@
 Budowa i administracja domowym serwerem opartym na architekturze mikroserwisów (Docker). Projekt pokazuje proces przekształcenia starego laptopa (legacy hardware) w pełnoprawną jednostkę serwerową do testów sieciowych, monitoringu i automatyzacji.
 
 ### 💻 Wykorzystany sprzęt
-* **Urządzenie:** Laptop Lenovo (bez portu Ethernet).
+* **Urządzenie:** Laptop Lenovo.
 * **System:** Ubuntu Server 24.04 LTS (Headless).
-* **Łączność:** Wyłącznie Wi-Fi (interfejs `wlp2s0`) ze statyczną adresacją IP.
+* **Łączność:** Wyłącznie Wi-Fi (interfejs `wlp2s0`) ze statyczną adresacją IP (brak portu).
 
 ---
 
