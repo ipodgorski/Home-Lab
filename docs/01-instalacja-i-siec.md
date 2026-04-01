@@ -16,8 +16,11 @@ Zamiast DHCP, ustawiliśmy statyczny adres IP, aby serwer był zawsze dostępny 
 ![Netplan](/docs/siec.png) 
 
 ## 3️⃣ Dostęp zdalny (SSH)
-Połączyliśmy się z serwerem za pomocą Kali Linux. 
+Połączyliśmy się z serwerem za pomocą Kali Linux.
+
 ![SSH](/docs/ssh.png)
 
 ## 4️⃣ Optymalizacja (Clamshell Mode)
 Wyłączyliśmy usypianie laptopa po zamknięciu klapy w pliku `/etc/systemd/logind.conf`.
+
+![Logind.conf](/docs/po.png)
