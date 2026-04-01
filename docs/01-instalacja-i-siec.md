@@ -23,4 +23,4 @@ Połączyliśmy się z serwerem za pomocą Kali Linux.
 ## 4️⃣ Optymalizacja (Clamshell Mode)
 Wyłączyliśmy usypianie laptopa po zamknięciu klapy w pliku `/etc/systemd/logind.conf`.
 
-![Logind.conf](/docs/po.png)
+![Logind.conf](/docs/po zamkniecie.png)
